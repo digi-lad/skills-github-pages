@@ -1,6 +1,4 @@
----
 title: Welcome to my blog!
----
 
 hihi hehe
 Hello
